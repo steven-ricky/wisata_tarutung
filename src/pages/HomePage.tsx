@@ -22,7 +22,7 @@ const HomePage: React.FC = () => {
         playsInline
         className="fixed inset-0 w-full h-full object-cover z-[-10]"
       >
-        <source src="/upload/taput.mp4" type="video/mp4" />
+        <source src="/upload/" type="video/mp4" />
         Browser Anda tidak mendukung video.
       </video>
 
